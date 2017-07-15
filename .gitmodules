@@ -1,0 +1,6 @@
+[submodule "data-cleaning-101"]
+	path = data-cleaning-101
+	url = https://github.com/kjam/data-cleaning-101.git
+[submodule "full-stack-data-science"]
+	path = full-stack-data-science
+	url = https://github.com/amitkaps/full-stack-data-science.git
